@@ -23,7 +23,6 @@ use Bitbucket\Client;
  */
 abstract class AbstractProjectsApi extends AbstractWorkspacesApi
 {
-
     /**
      * The project.
      *
